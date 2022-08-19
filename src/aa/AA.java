@@ -8,6 +8,7 @@ class Test2{
     public static void main(String[] args) {
         Object o = new Test2();
         String s = "aa";
+        System.out.Println("测试：这是第一次在Github上的改动...")
         ArrayList<Integer> list = new ArrayList<>();
         System.out.println("新一次修改");
         System.out.println("在hot-fox分支中的修改");
