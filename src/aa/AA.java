@@ -9,9 +9,7 @@ class Test2{
         Object o = new Test2();
         String s = "aa";
         System.out.println("测试：这是第一次在Github上的改动...");
-        for (int i = 0; i < 4; i++) {
-            System.out.println("i=" + i);
-        }
+
 
         s.charAt(2);
         System.out.println(o.toString());
