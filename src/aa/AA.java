@@ -9,8 +9,7 @@ class Test2{
         Object o = new Test2();
         String s = "aa";
         ArrayList<Integer> list = new ArrayList<>();
-        System.out.println("新一次修改");
-        System.out.println("在hot-fox分支中的修改");
+
         s.charAt(2);
         System.out.println(o.toString());
         int[] arr ={1,1,1,1};
