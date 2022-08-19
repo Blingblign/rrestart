@@ -9,9 +9,11 @@ class Test2{
         Object o = new Test2();
         String s = "aa";
         System.out.println("测试：这是第一次在Github上的改动...");
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 6; i++) {
             System.out.println("i=" + i);
-        }
+        } 
+        System.out.println("测试：这是第二次在Github上的改动...，增加循环次数");
+        
 
         s.charAt(2);
         System.out.println(o.toString());
